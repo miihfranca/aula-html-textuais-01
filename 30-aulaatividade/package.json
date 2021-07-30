@@ -1,0 +1,14 @@
+{
+    "name": "aula-sexta",
+    "version": "1.0.0",
+    "description": "musica de ninar ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "musica de ninar"
+    ],
+    "author": "michele franca",
+    "license": "ISC"
+}
